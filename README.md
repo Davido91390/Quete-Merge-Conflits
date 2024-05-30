@@ -1,2 +1,1 @@
 # Quete-Merge-Conflits
-REMOTE
