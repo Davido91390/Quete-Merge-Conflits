@@ -1,1 +1,2 @@
 # Quete-Merge-Conflits
+LOCAL
